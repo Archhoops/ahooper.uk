@@ -2,7 +2,7 @@
 
 ben was here
 
-This template should help get you started developing with Svelte in Vite.
+This template should help guihuyhet you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup
 
